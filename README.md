@@ -1,5 +1,5 @@
 ### Hi there, I'm Jatinder 👋
-- Lover of latest technologies and tech digger( keen to prove best solution with optimal code).
+- Lover of latest technologies and tech digger( Keen to provide best solution with optimal code).
 - Love to learn latest technoligies as they make the developer's life more easy and saves lot of time.
 - 🔭 I’m currently working on React Native and React Redux.
 - 🔭 I’m currently working on React Native app
